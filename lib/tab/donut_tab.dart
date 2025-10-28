@@ -24,7 +24,7 @@ class DonutTab extends StatelessWidget {
     [
       'Vanilla',
       '100.00',
-      Colors.amber,
+      Colors.greenAccent,
       'lib/images/grape_donut.png',
       'KrispyKreme',
     ],
